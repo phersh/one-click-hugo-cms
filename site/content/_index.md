@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Like a Circle Has No End"
+subtitle: That's how long I want to be your friend
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
